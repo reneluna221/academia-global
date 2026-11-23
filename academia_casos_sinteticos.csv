@@ -1,0 +1,37 @@
+﻿id,canal,estado,tipo,monto,minutos,sla
+INC-001,Wallet,Resuelto,Acreditación,1213,31,Dentro
+INC-002,SPEI,Resuelto,No reflejado,2076,44,Dentro
+INC-003,SPEI,Pendiente,Acreditación,2939,57,Dentro
+INC-004,SPEI,Pendiente,Duplicado,3802,70,Fuera
+INC-005,Wallet,Resuelto,Reversa,4665,83,Fuera
+INC-006,SPEI,Pendiente,Duplicado,5528,96,Fuera
+INC-007,Tarjeta,Resuelto,Reversa,6391,109,Fuera
+INC-008,Tarjeta,Resuelto,Conciliación,7254,122,Fuera
+INC-009,Wallet,Resuelto,Latencia,8117,135,Fuera
+INC-010,SPEI,Resuelto,Conciliación,8980,148,Fuera
+INC-011,SPEI,Resuelto,Latencia,9843,21,Dentro
+INC-012,SPEI,Pendiente,Acreditación,10706,34,Dentro
+INC-013,Wallet,Pendiente,No reflejado,11569,47,Dentro
+INC-014,SPEI,Resuelto,Acreditación,12432,60,Dentro
+INC-015,Tarjeta,Pendiente,No reflejado,13295,73,Fuera
+INC-016,Tarjeta,Resuelto,Reversa,14158,86,Fuera
+INC-017,Wallet,Resuelto,Duplicado,15021,99,Fuera
+INC-018,SPEI,Resuelto,Reversa,15884,112,Fuera
+INC-019,SPEI,Resuelto,Duplicado,16747,125,Fuera
+INC-020,SPEI,Resuelto,Latencia,17610,138,Fuera
+INC-021,Wallet,Pendiente,Conciliación,18473,151,Fuera
+INC-022,SPEI,Pendiente,Latencia,1036,24,Dentro
+INC-023,Tarjeta,Resuelto,Conciliación,1899,37,Dentro
+INC-024,Tarjeta,Pendiente,No reflejado,2762,50,Dentro
+INC-025,Wallet,Resuelto,Acreditación,3625,63,Fuera
+INC-026,SPEI,Resuelto,No reflejado,4488,76,Fuera
+INC-027,SPEI,Resuelto,Acreditación,5351,89,Fuera
+INC-028,SPEI,Resuelto,Duplicado,6214,102,Fuera
+INC-029,Wallet,Resuelto,Reversa,7077,115,Fuera
+INC-030,SPEI,Pendiente,Duplicado,7940,128,Fuera
+INC-031,Tarjeta,Pendiente,Reversa,8803,141,Fuera
+INC-032,Tarjeta,Resuelto,Conciliación,9666,154,Fuera
+INC-033,Wallet,Pendiente,Latencia,10529,27,Dentro
+INC-034,SPEI,Resuelto,Conciliación,11392,40,Dentro
+INC-035,SPEI,Resuelto,Latencia,12255,53,Dentro
+INC-036,SPEI,Resuelto,Acreditación,13118,66,Fuera
